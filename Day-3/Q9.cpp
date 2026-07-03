@@ -12,7 +12,7 @@ int prime(int n){
     return 0;
 }
 
-int main(){
+int main() {
     int n;
     cout << "Enter a Number : ";
     cin >> n;
